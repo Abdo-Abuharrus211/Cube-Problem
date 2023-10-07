@@ -14,5 +14,8 @@ ___
 * That's then filled with Cube objects that have 3 dimensions and a numeric value (double)
 * Then randomly populate the DataCube with Cube objects.
 * Sum their values and print the sum.
+___
+#### Contact Information
+If you have any questions or concerns, please contact me at: aabuharrus@my.bcit.ca
 
 
